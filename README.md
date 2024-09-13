@@ -75,6 +75,8 @@
     <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="https://www.microsoft.com/es-es/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="https://linuxmint.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white"></a>
 </p>
 
 <br> 
