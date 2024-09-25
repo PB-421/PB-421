@@ -14,7 +14,7 @@
 <br><br>
 
 - :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a begginer programmer at `C++`, `Java`, `MySql`.
+- :computer: I am a begginer programmer at `C++`, `Java`, `MySql`, and `TypeScript`.
 - :student: I’m currently learning `Computer Engineering`.
 - :car: I'm a big car fan.
 - :video_game: I love sim games and all computer world
@@ -42,6 +42,11 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+  </a>
+
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -55,8 +60,6 @@
     <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="https://www.json.org/json-es.html"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-    &emsp;
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> IDEs
@@ -66,6 +69,8 @@
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="https://www.jetbrains.com/es-es/"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.mysql.com/products/workbench/"><img alt="MySQL_Workbench" src="https://img.shields.io/badge/-MySQL_Workbench-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -115,6 +120,9 @@
     	</a>
 	<a href="https://github.com/PB-421/CompiladorBasicoJava">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=CompiladorBasicoJava&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/PB-421/EjerciciosArraysTypescript">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=EjerciciosArraysTypescript&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
