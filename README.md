@@ -121,8 +121,8 @@
 	<a href="https://github.com/PB-421/CompiladorBasicoJava">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=CompiladorBasicoJava&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PB-421/EjerciciosArraysTypescript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=EjerciciosArraysTypescript&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PB-421/EjerciciosTypescript">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=EjerciciosTypescript&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
