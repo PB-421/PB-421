@@ -127,6 +127,12 @@
 	<a href="https://github.com/PB-421/Pruebas_API_Typescript">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Pruebas_API_Typescript&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/PB-421/BotDiscord">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=BotDiscord&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/PB-421/Examen_Final">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Examen_Final&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
