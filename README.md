@@ -35,16 +35,24 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="https://cplusplus.com/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> 
+    <img alt="HTML" src="https://shields.io/badge/HTML-f06529?logo=html5&logoColor=white&labelColor=f06529">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> 
+    <img alt="CSS" src="https://shields.io/badge/CSS-264de4?logo=css3&logoColor=white&labelColor=264de4">
   </a>
 
 </p>
