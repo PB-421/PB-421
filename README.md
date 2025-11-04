@@ -14,10 +14,10 @@
 <br><br>
 
 - :technologist: I love using Software as a solution for every Problem.
-- :computer: I am a begginer programmer at `C++`, `Java`, `MySql`, and `TypeScript`.
+- :computer: I am a begginer programmer at `C++`, `Java`, `MySql`, and `TypeScript` and `C#`.
 - :student: I’m currently learning `Computer Engineering`.
 - :car: I'm a big car fan.
-- :video_game: I love sim games and all computer world
+- :video_game: I love sim games and all computer world.
 - :nerd_face: Always learning new things.
 
 ![Sticker de Giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFwNjg1bmEwbzBlYmc4dHp5aXQ1b3MxMWV5MmFnNHk5bGFxcDJqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/q44H42QrSGfI3UEy7N/giphy.gif)
@@ -25,7 +25,6 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="https://github.com/PB-421"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/pableras421/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
@@ -53,6 +52,10 @@
   &emsp;
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> 
     <img alt="CSS" src="https://shields.io/badge/CSS-264de4?logo=css3&logoColor=white&labelColor=264de4">
+  </a>
+  &emsp;
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white">
   </a>
 
 </p>
@@ -111,17 +114,17 @@
   </p>
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My Best Repositories </h3></summary>
 
 ----
 	
 <div>
   <p align="center">
-	<a href="https://github.com/PB-421/practicaEX1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=practicaEX1&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PB-421/Api_Helldivers2_Csharp">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Api_Helldivers2_Csharp&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PB-421/Ejercicios_Clase_T1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Ejercicios_Clase_T1&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PB-421/Helldivers2_Front_VUE">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Helldivers2_Front_VUE&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/PB-421/ProyectoProgramacionSegundo">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=ProyectoProgramacionSegundo&theme=tokyonight" alt="GitHub Stats" />  
@@ -129,11 +132,11 @@
 	<a href="https://github.com/PB-421/CompiladorBasicoJava">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=CompiladorBasicoJava&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PB-421/EjerciciosTypescript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=EjerciciosTypescript&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PB-421/Cookies-Mix">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Cookies-Mix&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PB-421/Pruebas_API_Typescript">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Pruebas_API_Typescript&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/PB-421/Examen-Final-Front">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=Examen-Final-Front&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/PB-421/BotDiscord">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PB-421&repo=BotDiscord&theme=tokyonight" alt="GitHub Stats" />
